@@ -1,0 +1,64 @@
+
+    body {
+        color: FF0000;
+            background: rgb(255, 255, 255);
+            background-image: url("watercolor.border.png");
+            
+            background-position: center ;
+            background-size: 100%;
+    }
+    a.rollover {
+        background: url(photo_2018-10-02_22-48-11.jpg); 
+        display: block; 
+        width: 800px; 
+        height: 600px; 
+        margin-top: 20px;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-left: auto;
+       }
+       a.rollover:hover {
+        background: url(photo_2018-10-02_22-43-59.jpg); 
+       }
+p {
+    color:green; 
+    font-size:50px; 
+    font-style:oblique;
+}
+section { 
+    color:black; 
+    font-size:25px; 
+
+}
+
+#spisok {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    border: 2px solid #0066ff;
+background-position-x: 75%;
+
+text-align: center;
+background-color: violet;
+
+  } 
+  #spisok li { display: inline; }
+  #spisok a {
+    color: #fff;
+    padding: 5px 10px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    width: 100px;
+    position: center;
+  }
+  #spisok a:hover {
+    border-radius: 20px 5px;
+    background-color: #0066FF;
+  }
+  a { 
+    text-decoration: none; 
+    color:rgb(224, 181, 196);
+   }
+    
+    

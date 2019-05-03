@@ -1,0 +1,36 @@
+body {
+    color: FF0000;
+        background: rgb(255, 255, 255);
+        background-image: url("watercolor.border.png");
+        background-repeat: no-repeat;
+        background-position: center ;
+        background-size: 100%;
+}
+.month {
+    width: 200px;
+    height: 250px;
+    border-color: aqua;
+    border-width: 10px;
+    border-radius: 200px;
+    margin-bottom: auto;
+
+}
+
+   .Autumn { position : relative ; top: 10px;
+    left: 350px; 
+     
+    }
+    
+   
+.Winter { position : relative ; top: 0px;
+    left: 350px;
+}
+.Spring { position : relative ; top: 0px;
+    left: 350px;
+}
+h1 {
+    position: center;
+}
+a { 
+    text-decoration: none; 
+   }
